@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #coding:utf-8
 #author:0xExploit
-#weibo:
+#weibo:http://weibo.com/0xExploit/
 
 
 import argparse
